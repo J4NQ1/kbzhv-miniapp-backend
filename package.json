@@ -1,0 +1,12 @@
+{
+  "name": "kbzhv-mini-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.6"
+  }
+}
