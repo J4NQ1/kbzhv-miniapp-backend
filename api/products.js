@@ -1,7 +1,7 @@
 const db = require('../lib/db');
 module.exports = async (req, res) => {
     const { method } = req;
-    
+
     if (method === 'POST') {
         const { name, calories, proteins, fats, carbs } = req.body;
         await db.run(`INSERT INTO products (name, calories, proteins, fats, carbs)

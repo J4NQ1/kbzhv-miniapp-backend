@@ -1,9 +1,9 @@
 const db = require('../lib/db');
 module.exports = async (req, res) => {
     const { method } = req;
-    const { userId, calories, proteins, fats, carbs, date } = req.body;
 
     if (method === 'POST') {
+        const { userId, calories, proteins, fats, carbs, date } = req.body;
         await db.run(`INSERT INTO kbzhv (userId, calories, proteins, fats, carbs, date)
                       VALUES (?, ?, ?, ?, ?, ?)`,
                       [userId, calories, proteins, fats, carbs, date]);
