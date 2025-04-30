@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const dataFilePath = path.join(__dirname, '../data/products.json');
+const filtered = products.filter(p => p.name.toLowerCase().includes(searchTerm));
 
 module.exports = async (req, res) => {
   if (req.method === 'OPTIONS') {
