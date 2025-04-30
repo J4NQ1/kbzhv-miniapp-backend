@@ -41,3 +41,18 @@ module.exports = async (req, res) => {
 
   res.status(405).end();
 };
+
+// routes/products.js
+const express = require('express');
+const router = express.Router();
+const fs = require('fs');
+
+const products = require('../data/products.json');
+
+router.get('/', (req, res) => {
+  const search = req.query.search?.toLowerCase() || '';
+  const filtered = products.filter(p => p.name.toLowerCase().includes(search));
+  res.json(filtered);
+});
+
+module.exports = router;
