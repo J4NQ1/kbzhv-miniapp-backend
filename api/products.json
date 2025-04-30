@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Огірок",
+    "calories": 15.0,
+    "proteins": 0.8,
+    "fats": 0.1,
+    "carbs": 3.6
+  },
+  {
+    "name": "Помідор",
+    "calories": 18.0,
+    "proteins": 0.9,
+    "fats": 0.2,
+    "carbs": 3.9
+  },
+  {
+    "name": "Картопля смажена",
+    "calories": 192.0,
+    "proteins": 2.6,
+    "fats": 9.5,
+    "carbs": 25.0
+  },
+  {
+    "name": "Яблуко",
+    "calories": 52.0,
+    "proteins": 0.3,
+    "fats": 0.2,
+    "carbs": 14.0
+  },
+  {
+    "name": "Грушка",
+    "calories": 57.0,
+    "proteins": 0.4,
+    "fats": 0.1,
+    "carbs": 15.0
+  },
+  {
+    "name": "Банан",
+    "calories": 89.0,
+    "proteins": 1.1,
+    "fats": 0.3,
+    "carbs": 23.0
+  },
+  {
+    "name": "Білий хліб",
+    "calories": 265.0,
+    "proteins": 9.0,
+    "fats": 3.2,
+    "carbs": 49.0
+  },
+  {
+    "name": "Гречка варена",
+    "calories": 110.0,
+    "proteins": 3.6,
+    "fats": 1.3,
+    "carbs": 20.0
+  },
+  {
+    "name": "Рис варений",
+    "calories": 130.0,
+    "proteins": 2.4,
+    "fats": 0.2,
+    "carbs": 28.0
+  },
+  {
+    "name": "Куряче філе",
+    "calories": 165.0,
+    "proteins": 31.0,
+    "fats": 3.6,
+    "carbs": 0.0
+  },
+  {
+    "name": "Огірок 11",
+    "calories": 16.0,
+    "proteins": 1.0,
+    "fats": 0.2,
+    "carbs": 5.1
+  },
+  {
+    "name": "Помідор 12",
+    "calories": 20.0,
+    "proteins": 0.9,
+    "fats": 0.2,
+    "carbs": 3.9
+  },
+  {
+    "name": "Картопля смажена 13",
+    "calories": 195.0,
+    "proteins": 2.7,
+    "fats": 9.6,
+    "carbs": 25.5
+  },
+  {
+    "name": "Яблуко 14",
+    "calories": 56.0,
+    "proteins": 0.5,
+    "fats": 0.2,
+    "carbs": 15.0
+  },
+  {
+    "name": "Грушка 15",
+    "calories": 57.0,
+    "proteins": 0.4,
+    "fats": 0.2,
+    "carbs": 16.5
+  },
+  {
+    "name": "Банан 16",
+    "calories": 90.0,
+    "proteins": 1.2,
+    "fats": 0.3,
+    "carbs": 23.0
+  },
+  {
+    "name": "Білий хліб 17",
+    "calories": 267.0,
+    "proteins": 9.2,
+    "fats": 3.3,
+    "carbs": 49.5
+  },
+  {
+    "name": "Гречка варена 18",
+    "calories": 113.0,
+    "proteins": 3.6,
+    "fats": 1.3,
+    "carbs": 21.0
+  },
+  {
+    "name": "Рис варений 19",
+    "calories": 134.0,
+    "proteins": 2.5,
+    "fats": 0.3,
+    "carbs": 29.5
+  },
+  {
+    "name": "Куряче філе 20",
+    "calories": 165.0,
+    "proteins": 31.2,
+    "fats": 3.6,
+    "carbs": 0.0
+  },
+  {
+    "name": "Огірок 21",
+    "calories": 16.0,
+    "proteins": 0.8,
+    "fats": 0.2,
+    "carbs": 4.1
+  },
+  {
+    "name": "Помідор 22",
+    "calories": 20.0,
+    "proteins": 1.0,
+    "fats": 0.2,
+    "carbs": 4.9
+  },
+  {
+    "name": "Картопля смажена 23",
+    "calories": 195.0,
+    "proteins": 2.8,
+    "fats": 9.6,
+    "carbs": 26.5
+  },
+  {
+    "name": "Яблуко 24",
+    "calories": 56.0,
+    "proteins": 0.3,
+    "fats": 0.2,
+    "carbs": 14.0
+  },
+  {
+    "name": "Грушка 25",
+    "calories": 57.0,
+    "proteins": 0.5,
+    "fats": 0.2,
+    "carbs": 15.5
+  },
+  {
+    "name": "Банан 26",
+    "calories": 90.0,
+    "proteins": 1.3,
+    "fats": 0.3,
+    "carbs": 24.0
+  },
+  {
+    "name": "Білий хліб 27",
+    "calories": 267.0,
+    "proteins": 9.0,
+    "fats": 3.3,
+    "carbs": 50.5
+  },
+  {
+    "name": "Гречка варена 28",
+    "calories": 113.0,
+    "proteins": 3.7,
+    "fats": 1.3,
+    "carbs": 20.0
+  },
+  {
+    "name": "Рис варений 29",
+    "calories": 134.0,
+    "proteins": 2.6,
+    "fats": 0.3,
+    "carbs": 28.5
+  },
+  {
+    "name": "Куряче філе 30",
+    "calories": 165.0,
+    "proteins": 31.0,
+    "fats": 3.6,
+    "carbs": 1.0
+  },
+  {
+    "name": "Огірок 31",
+    "calories": 16.0,
+    "proteins": 0.9,
+    "fats": 0.2,
+    "carbs": 5.1
+  },
+  {
+    "name": "Помідор 32",
+    "calories": 20.0,
+    "proteins": 1.1,
+    "fats": 0.2,
+    "carbs": 3.9
+  },
+  {
+    "name": "Картопля смажена 33",
+    "calories": 195.0,
+    "proteins": 2.6,
+    "fats": 9.6,
+    "carbs": 25.5
+  },
+  {
+    "name": "Яблуко 34",
+    "calories": 56.0,
+    "proteins": 0.4,
+    "fats": 0.2,
+    "carbs": 15.0
+  },
+  {
+    "name": "Грушка 35",
+    "calories": 57.0,
+    "proteins": 0.6,
+    "fats": 0.2,
+    "carbs": 16.5
+  },
+  {
+    "name": "Банан 36",
+    "calories": 90.0,
+    "proteins": 1.1,
+    "fats": 0.3,
+    "carbs": 23.0
+  },
+  {
+    "name": "Білий хліб 37",
+    "calories": 267.0,
+    "proteins": 9.1,
+    "fats": 3.3,
+    "carbs": 49.5
+  },
+  {
+    "name": "Гречка варена 38",
+    "calories": 113.0,
+    "proteins": 3.8,
+    "fats": 1.3,
+    "carbs": 21.0
+  },
+  {
+    "name": "Рис варений 39",
+    "calories": 134.0,
+    "proteins": 2.4,
+    "fats": 0.3,
+    "carbs": 29.5
+  },
+  {
+    "name": "Куряче філе 40",
+    "calories": 165.0,
+    "proteins": 31.1,
+    "fats": 3.6,
+    "carbs": 0.0
+  },
+  {
+    "name": "Огірок 41",
+    "calories": 16.0,
+    "proteins": 1.0,
+    "fats": 0.2,
+    "carbs": 4.1
+  },
+  {
+    "name": "Помідор 42",
+    "calories": 20.0,
+    "proteins": 0.9,
+    "fats": 0.2,
+    "carbs": 4.9
+  },
+  {
+    "name": "Картопля смажена 43",
+    "calories": 195.0,
+    "proteins": 2.7,
+    "fats": 9.6,
+    "carbs": 26.5
+  },
+  {
+    "name": "Яблуко 44",
+    "calories": 56.0,
+    "proteins": 0.5,
+    "fats": 0.2,
+    "carbs": 14.0
+  },
+  {
+    "name": "Грушка 45",
+    "calories": 57.0,
+    "proteins": 0.4,
+    "fats": 0.2,
+    "carbs": 15.5
+  },
+  {
+    "name": "Банан 46",
+    "calories": 90.0,
+    "proteins": 1.2,
+    "fats": 0.3,
+    "carbs": 24.0
+  },
+  {
+    "name": "Білий хліб 47",
+    "calories": 267.0,
+    "proteins": 9.2,
+    "fats": 3.3,
+    "carbs": 50.5
+  },
+  {
+    "name": "Гречка варена 48",
+    "calories": 113.0,
+    "proteins": 3.6,
+    "fats": 1.3,
+    "carbs": 20.0
+  },
+  {
+    "name": "Рис варений 49",
+    "calories": 134.0,
+    "proteins": 2.5,
+    "fats": 0.3,
+    "carbs": 28.5
+  },
+  {
+    "name": "Куряче філе 50",
+    "calories": 165.0,
+    "proteins": 31.2,
+    "fats": 3.6,
+    "carbs": 1.0
+  },
+  {
+    "name": "Огірок 51",
+    "calories": 16.0,
+    "proteins": 0.8,
+    "fats": 0.2,
+    "carbs": 5.1
+  },
+  {
+    "name": "Помідор 52",
+    "calories": 20.0,
+    "proteins": 1.0,
+    "fats": 0.2,
+    "carbs": 3.9
+  },
+  {
+    "name": "Картопля смажена 53",
+    "calories": 195.0,
+    "proteins": 2.8,
+    "fats": 9.6,
+    "carbs": 25.5
+  },
+  {
+    "name": "Яблуко 54",
+    "calories": 56.0,
+    "proteins": 0.3,
+    "fats": 0.2,
+    "carbs": 15.0
+  },
+  {
+    "name": "Грушка 55",
+    "calories": 57.0,
+    "proteins": 0.5,
+    "fats": 0.2,
+    "carbs": 16.5
+  },
+  {
+    "name": "Банан 56",
+    "calories": 90.0,
+    "proteins": 1.3,
+    "fats": 0.3,
+    "carbs": 23.0
+  },
+  {
+    "name": "Білий хліб 57",
+    "calories": 267.0,
+    "proteins": 9.0,
+    "fats": 3.3,
+    "carbs": 49.5
+  },
+  {
+    "name": "Гречка варена 58",
+    "calories": 113.0,
+    "proteins": 3.7,
+    "fats": 1.3,
+    "carbs": 21.0
+  },
+  {
+    "name": "Рис варений 59",
+    "calories": 134.0,
+    "proteins": 2.6,
+    "fats": 0.3,
+    "carbs": 29.5
+  },
+  {
+    "name": "Куряче філе 60",
+    "calories": 165.0,
+    "proteins": 31.0,
+    "fats": 3.6,
+    "carbs": 0.0
+  },
+  {
+    "name": "Огірок 61",
+    "calories": 16.0,
+    "proteins": 0.9,
+    "fats": 0.2,
+    "carbs": 4.1
+  },
+  {
+    "name": "Помідор 62",
+    "calories": 20.0,
+    "proteins": 1.1,
+    "fats": 0.2,
+    "carbs": 4.9
+  },
+  {
+    "name": "Картопля смажена 63",
+    "calories": 195.0,
+    "proteins": 2.6,
+    "fats": 9.6,
+    "carbs": 26.5
+  },
+  {
+    "name": "Яблуко 64",
+    "calories": 56.0,
+    "proteins": 0.4,
+    "fats": 0.2,
+    "carbs": 14.0
+  },
+  {
+    "name": "Грушка 65",
+    "calories": 57.0,
+    "proteins": 0.6,
+    "fats": 0.2,
+    "carbs": 15.5
+  },
+  {
+    "name": "Банан 66",
+    "calories": 90.0,
+    "proteins": 1.1,
+    "fats": 0.3,
+    "carbs": 24.0
+  },
+  {
+    "name": "Білий хліб 67",
+    "calories": 267.0,
+    "proteins": 9.1,
+    "fats": 3.3,
+    "carbs": 50.5
+  },
+  {
+    "name": "Гречка варена 68",
+    "calories": 113.0,
+    "proteins": 3.8,
+    "fats": 1.3,
+    "carbs": 20.0
+  },
+  {
+    "name": "Рис варений 69",
+    "calories": 134.0,
+    "proteins": 2.4,
+    "fats": 0.3,
+    "carbs": 28.5
+  },
+  {
+    "name": "Куряче філе 70",
+    "calories": 165.0,
+    "proteins": 31.1,
+    "fats": 3.6,
+    "carbs": 1.0
+  },
+  {
+    "name": "Огірок 71",
+    "calories": 16.0,
+    "proteins": 1.0,
+    "fats": 0.2,
+    "carbs": 5.1
+  },
+  {
+    "name": "Помідор 72",
+    "calories": 20.0,
+    "proteins": 0.9,
+    "fats": 0.2,
+    "carbs": 3.9
+  },
+  {
+    "name": "Картопля смажена 73",
+    "calories": 195.0,
+    "proteins": 2.7,
+    "fats": 9.6,
+    "carbs": 25.5
+  },
+  {
+    "name": "Яблуко 74",
+    "calories": 56.0,
+    "proteins": 0.5,
+    "fats": 0.2,
+    "carbs": 15.0
+  },
+  {
+    "name": "Грушка 75",
+    "calories": 57.0,
+    "proteins": 0.4,
+    "fats": 0.2,
+    "carbs": 16.5
+  },
+  {
+    "name": "Банан 76",
+    "calories": 90.0,
+    "proteins": 1.2,
+    "fats": 0.3,
+    "carbs": 23.0
+  },
+  {
+    "name": "Білий хліб 77",
+    "calories": 267.0,
+    "proteins": 9.2,
+    "fats": 3.3,
+    "carbs": 49.5
+  },
+  {
+    "name": "Гречка варена 78",
+    "calories": 113.0,
+    "proteins": 3.6,
+    "fats": 1.3,
+    "carbs": 21.0
+  },
+  {
+    "name": "Рис варений 79",
+    "calories": 134.0,
+    "proteins": 2.5,
+    "fats": 0.3,
+    "carbs": 29.5
+  },
+  {
+    "name": "Куряче філе 80",
+    "calories": 165.0,
+    "proteins": 31.2,
+    "fats": 3.6,
+    "carbs": 0.0
+  },
+  {
+    "name": "Огірок 81",
+    "calories": 16.0,
+    "proteins": 0.8,
+    "fats": 0.2,
+    "carbs": 4.1
+  },
+  {
+    "name": "Помідор 82",
+    "calories": 20.0,
+    "proteins": 1.0,
+    "fats": 0.2,
+    "carbs": 4.9
+  },
+  {
+    "name": "Картопля смажена 83",
+    "calories": 195.0,
+    "proteins": 2.8,
+    "fats": 9.6,
+    "carbs": 26.5
+  },
+  {
+    "name": "Яблуко 84",
+    "calories": 56.0,
+    "proteins": 0.3,
+    "fats": 0.2,
+    "carbs": 14.0
+  },
+  {
+    "name": "Грушка 85",
+    "calories": 57.0,
+    "proteins": 0.5,
+    "fats": 0.2,
+    "carbs": 15.5
+  },
+  {
+    "name": "Банан 86",
+    "calories": 90.0,
+    "proteins": 1.3,
+    "fats": 0.3,
+    "carbs": 24.0
+  },
+  {
+    "name": "Білий хліб 87",
+    "calories": 267.0,
+    "proteins": 9.0,
+    "fats": 3.3,
+    "carbs": 50.5
+  },
+  {
+    "name": "Гречка варена 88",
+    "calories": 113.0,
+    "proteins": 3.7,
+    "fats": 1.3,
+    "carbs": 20.0
+  },
+  {
+    "name": "Рис варений 89",
+    "calories": 134.0,
+    "proteins": 2.6,
+    "fats": 0.3,
+    "carbs": 28.5
+  },
+  {
+    "name": "Куряче філе 90",
+    "calories": 165.0,
+    "proteins": 31.0,
+    "fats": 3.6,
+    "carbs": 1.0
+  },
+  {
+    "name": "Огірок 91",
+    "calories": 16.0,
+    "proteins": 0.9,
+    "fats": 0.2,
+    "carbs": 5.1
+  },
+  {
+    "name": "Помідор 92",
+    "calories": 20.0,
+    "proteins": 1.1,
+    "fats": 0.2,
+    "carbs": 3.9
+  },
+  {
+    "name": "Картопля смажена 93",
+    "calories": 195.0,
+    "proteins": 2.6,
+    "fats": 9.6,
+    "carbs": 25.5
+  },
+  {
+    "name": "Яблуко 94",
+    "calories": 56.0,
+    "proteins": 0.4,
+    "fats": 0.2,
+    "carbs": 15.0
+  },
+  {
+    "name": "Грушка 95",
+    "calories": 57.0,
+    "proteins": 0.6,
+    "fats": 0.2,
+    "carbs": 16.5
+  },
+  {
+    "name": "Банан 96",
+    "calories": 90.0,
+    "proteins": 1.1,
+    "fats": 0.3,
+    "carbs": 23.0
+  },
+  {
+    "name": "Білий хліб 97",
+    "calories": 267.0,
+    "proteins": 9.1,
+    "fats": 3.3,
+    "carbs": 49.5
+  },
+  {
+    "name": "Гречка варена 98",
+    "calories": 113.0,
+    "proteins": 3.8,
+    "fats": 1.3,
+    "carbs": 21.0
+  },
+  {
+    "name": "Рис варений 99",
+    "calories": 134.0,
+    "proteins": 2.4,
+    "fats": 0.3,
+    "carbs": 29.5
+  },
+  {
+    "name": "Куряче філе 100",
+    "calories": 165.0,
+    "proteins": 31.1,
+    "fats": 3.6,
+    "carbs": 0.0
+  }
+]
