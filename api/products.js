@@ -1,25 +1,42 @@
-const db = require('../lib/db');
+const fs = require('fs');
+const path = require('path');
+const dataFilePath = path.join(__dirname, '../data/products.json');
+
 module.exports = async (req, res) => {
-    const { method } = req;
+  if (req.method === 'OPTIONS') {
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Methods', 'GET,POST,OPTIONS');
+    res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+    return res.status(200).end();
+  }
 
-    if (method === 'POST') {
-        const { name, calories, proteins, fats, carbs } = req.body;
-        await db.run(`INSERT INTO products (name, calories, proteins, fats, carbs)
-                      VALUES (?, ?, ?, ?, ?)`,
-                      [name, calories, proteins, fats, carbs]);
-        return res.status(200).json({ message: 'Product added' });
+  res.setHeader('Access-Control-Allow-Origin', '*');
+
+  if (req.method === 'GET') {
+    const { search } = req.query;
+    let products = [];
+    if (fs.existsSync(dataFilePath)) {
+      const raw = fs.readFileSync(dataFilePath);
+      products = JSON.parse(raw);
     }
-
-    if (method === 'GET') {
-        const { search } = req.query;
-        let products;
-        if (search) {
-            products = await db.all(`SELECT * FROM products WHERE name LIKE ?`, [`%${search}%`]);
-        } else {
-            products = await db.all(`SELECT * FROM products`);
-        }
-        return res.status(200).json(products);
+    if (search) {
+      products = products.filter(p =>
+        p.name.toLowerCase().includes(search.toLowerCase())
+      );
     }
+    return res.status(200).json(products);
+  }
 
-    res.status(405).end();
+  if (req.method === 'POST') {
+    const { name, calories, proteins, fats, carbs } = req.body;
+    let products = [];
+    if (fs.existsSync(dataFilePath)) {
+      products = JSON.parse(fs.readFileSync(dataFilePath));
+    }
+    products.push({ name, calories, proteins, fats, carbs });
+    fs.writeFileSync(dataFilePath, JSON.stringify(products, null, 2));
+    return res.status(201).json({ message: 'Продукт додано' });
+  }
+
+  res.status(405).end();
 };

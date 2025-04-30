@@ -1,6 +1,7 @@
 const db = require('../lib/db');
 
 module.exports = async (req, res) => {
+  // CORS headers
   if (req.method === 'OPTIONS') {
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Methods', 'GET,POST,OPTIONS');

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Банан",
+    "calories": 89,
+    "proteins": 1.1,
+    "fats": 0.3,
+    "carbs": 22.8
+  },
+  {
+    "name": "Яблуко",
+    "calories": 52,
+    "proteins": 0.3,
+    "fats": 0.2,
+    "carbs": 14
+  },
+  {
+    "name": "Огірок",
+    "calories": 16,
+    "proteins": 0.7,
+    "fats": 0.1,
+    "carbs": 3.6
+  },
+  {
+    "name": "Помідор",
+    "calories": 18,
+    "proteins": 0.9,
+    "fats": 0.2,
+    "carbs": 3.9
+  },
+  {
+    "name": "Картопля",
+    "calories": 77,
+    "proteins": 2,
+    "fats": 0.1,
+    "carbs": 17
+  },
+  {
+    "name": "Рис",
+    "calories": 130,
+    "proteins": 2.7,
+    "fats": 0.3,
+    "carbs": 28
+  },
+  {
+    "name": "Гречка",
+    "calories": 343,
+    "proteins": 13.3,
+    "fats": 3.4,
+    "carbs": 72.2
+  },
+  {
+    "name": "Булгур",
+    "calories": 342,
+    "proteins": 12.3,
+    "fats": 1.3,
+    "carbs": 75.9
+  },
+  {
+    "name": "Куряче філе",
+    "calories": 165,
+    "proteins": 31,
+    "fats": 3.6,
+    "carbs": 0
+  },
+  {
+    "name": "Яйце",
+    "calories": 155,
+    "proteins": 13,
+    "fats": 11,
+    "carbs": 1.1
+  },
+  {
+    "name": "Молоко",
+    "calories": 42,
+    "proteins": 3.4,
+    "fats": 1,
+    "carbs": 5
+  },
+  {
+    "name": "Сир твердий",
+    "calories": 402,
+    "proteins": 25,
+    "fats": 33,
+    "carbs": 1.3
+  },
+  {
+    "name": "Йогурт",
+    "calories": 59,
+    "proteins": 10,
+    "fats": 0.4,
+    "carbs": 3.6
+  },
+  {
+    "name": "Груша",
+    "calories": 57,
+    "proteins": 0.4,
+    "fats": 0.1,
+    "carbs": 15
+  },
+  {
+    "name": "Апельсин",
+    "calories": 47,
+    "proteins": 0.9,
+    "fats": 0.1,
+    "carbs": 12
+  },
+  {
+    "name": "Броколі",
+    "calories": 34,
+    "proteins": 2.8,
+    "fats": 0.4,
+    "carbs": 6.6
+  },
+  {
+    "name": "Капуста",
+    "calories": 25,
+    "proteins": 1.3,
+    "fats": 0.1,
+    "carbs": 5.8
+  },
+  {
+    "name": "Морква",
+    "calories": 41,
+    "proteins": 0.9,
+    "fats": 0.2,
+    "carbs": 10
+  },
+  {
+    "name": "Кукурудза",
+    "calories": 86,
+    "proteins": 3.2,
+    "fats": 1.2,
+    "carbs": 19
+  },
+  {
+    "name": "Авокадо",
+    "calories": 160,
+    "proteins": 2,
+    "fats": 15,
+    "carbs": 9
+  }
+]
